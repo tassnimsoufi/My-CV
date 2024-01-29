@@ -1,0 +1,11 @@
+@import url("./colors.css");
+@import url("./dimensions.css");
+@import url("./position.css");
+@import url("./avatar.css");
+@import url("./mediaQuuery.css");
+
+body{
+    margin: 0;
+}
+
+
